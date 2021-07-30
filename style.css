@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#main-heading{
+    margin: 2%;
+    text-align: center;
+}
+#second-heading{
+    margin: 2%;
+    text-align: center;
+}
+#notes-container{
+    margin: 2% auto;
+    border: groove;
+}
+#notes{
+    margin: 2% auto;
+    border: groove;
+    margin-bottom: 25rem;
+    /* display: flex;
+    justify-content: space-between; */
+}
+
+#footer{
+    position: relative;
+    bottom: 0%;
+    width:100%;
+}
+
+.noteCard{
+    display: inline-block;
+}
