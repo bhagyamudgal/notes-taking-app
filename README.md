@@ -3,9 +3,12 @@
 
 Website to takes notes. User can add and delete notes easily.
 
+URL - https://bhagyamudgal.github.io/notes-taking-app/
 
-## 🛠 Technologies Used
-HTML, CSS, JavaScript and Bootstrap.
+
+## Tech Stack
+
+**Client:** HTML, CSS, Javascript and Bootstrap.
 
   
 ## Screenshot
