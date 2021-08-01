@@ -8,7 +8,7 @@ URL - https://bhagyamudgal.github.io/notes-taking-app/
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Javascript and Bootstrap.
+**Client:** HTML | CSS | JavaScript | Bootstrap
 
   
 ## Screenshot
